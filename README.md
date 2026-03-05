@@ -1,2 +1,2 @@
 # enmmdic
-English Myanmar Dictionary
+English Myanmar Dictionary by Min Soe Han.
