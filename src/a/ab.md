@@ -17,7 +17,7 @@ _v_ - ဖျက် (သိမ်း) သည်။ The match was abandoned becaus
 
 _v_ - (ဟန်) မဆောင် (တော့)။ The regime has abandoned all/any pretence of democracy.
 
-**~ onself to despair** (_reht_) (စိတ်အာရုံ ခံစားချက် လွှမ်းမိုးမှုတွင်) လွင့်မျောလိုက်ပါသွားသည်။ He abandoned himself to despair.
+~ **onself to despair** (_reht_) (စိတ်အာရုံ ခံစားချက် လွှမ်းမိုးမှုတွင်) လွင့်မျောလိုက်ပါသွားသည်။ He abandoned himself to despair.
 
 _n_ - (also **abandonment**) စိတ်လွတ်လက်လွတ် [ဖြစ်သော အခြေအနေ]။ dance with gay abandon.
 
